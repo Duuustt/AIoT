@@ -87,7 +87,7 @@ python camera_upload.py
 
 | 目标类别：人 (human) | 目标类别：瓶子 (bottle) | 目标类别：苹果 (apple) |
 | :---: | :---: | :---: |
-| ![Person](./people.png) | ![Bottle](./bottle.png) | ![Apple](./apple.png) |
+| ![Person](./human.png) | ![Bottle](./bottle.png) | ![Apple](./apple.png) |
 | **置信度：89.8%** | **置信度：86.3%** | **置信度：83.5%** |
 
 
